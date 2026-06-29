@@ -60,9 +60,9 @@ dashboard.py
 - Synchronizing backup data with UI
 - Implementing treeview selection logic
 ## Future Improvements
-Backup Scheduler
-Cloud Backup Support
-Encryption for backups
-Graphical analytics
+- Backup Scheduler
+- Cloud Backup Support
+- Encryption for backups
+- Graphical analytics
 ## Author
 Minahil Noor
