@@ -51,14 +51,14 @@ Run the program
 dashboard.py
 ```
 ## Requirements
-Python 3.x
-CustomTkinter installed
+- Python 3.x
+- CustomTkinter installed
 ## Challenges Faced
-Managing real-time dashboard updates
-Handling GUI responsiveness
-Designing clean layout using CustomTkinter
-Synchronizing backup data with UI
-Implementing treeview selection logic
+- Managing real-time dashboard updates
+- Handling GUI responsiveness
+- Designing clean layout using CustomTkinter
+- Synchronizing backup data with UI
+- Implementing treeview selection logic
 ## Future Improvements
 Backup Scheduler
 Cloud Backup Support
